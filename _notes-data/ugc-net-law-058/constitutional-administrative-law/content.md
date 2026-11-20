@@ -1421,7 +1421,7 @@ This section compiles ALL major doctrines of Constitutional and Administrative L
 | Administrative Reforms Commission (1st ARC)                                | 1966–1970 | Recommended Lokpal and Lokayukta; Morarji Desai headed it                                                                                     |
 | 2nd Administrative Reforms Commission                                      | 2005–2009 | Thirteen reports on administrative reforms including citizen-centric administration, Ethics in Governance, Public Order                       |
 | 21st Law Commission of India                                               | 2018      | Recommended Uniform Civil Code — India is not ready yet; codification of personal laws should come first                                      |
-| Law Commission Report 277                                                  | 2018      | Recommended abolition of sedition law (Section 124-A IPC) — since carried forward; SC stayed its operation in 2022                            |
+| Law Commission Report 279 (22nd Law Commission)                              | 2023      | On the usage of the sedition law — recommended retaining Section 124A IPC with safeguards (Kedar Nath Singh ratio in the text; punishment of life or up to 7 years; FIR only after preliminary enquiry and government permission); SC had kept s. 124A in abeyance in S.G. Vombatkere (2022); BNS s. 152 has since replaced s. 124A |
 
 ## Chapter 23: Important Statutory Provisions (Administrative Law)
 
